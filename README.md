@@ -20,7 +20,7 @@
 <!--About session-->
 <h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
 
-Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
+Curso do Bootcamp Inter Frontend Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 <img src="./src/assets/img/badge-curso.png" title="Badge" width="70" height="70">
 
@@ -30,9 +30,6 @@ As imagens dos filmes incluídos neste projetos foram retiradas do site [The Mov
 
 Neste projeto realizei algumas alterações, como a logo da Netflix que no projeto original não tem. A fonte utilizada no original foi Arial, eu já incluí a fonte <b>Roboto</b> do [Google Fonts](https://fonts.google.com/specimen/Roboto).
 
-<i>PS.: todos os links deste clone retornam para a mesma página.</i>
-
-- [Projeto desenvolvido](https://clone-netflix.vercel.app/)
 
 <p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
 <p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone Netflix - DIO"></p>
@@ -45,7 +42,3 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-<!--License session-->
-<h3>📝 Licença</h3>
-
-- Este projeto está sob a licença [MIT](./LICENSE).
